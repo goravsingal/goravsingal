@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am a Software Architect and Full-stack Software Developer from India.
+I am a Software Architect and Full-stack Software Developer.
+Currently, I'm working full-time in Adobe Systems, India.
 
 ## My Other Github Repos
 [GyanBlog Repo](https://github.com/gyanblog)
