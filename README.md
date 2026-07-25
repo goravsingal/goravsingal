@@ -6,16 +6,16 @@ Currently, I'm working full-time in Adobe Systems, India.
 [GyanBlog Repo](https://github.com/gyanblog)
 
 ## My Technical Blogs
-[GyanBlog.com](https://www.gyanblog.com)
-
-## My Semi-Successful (Passive) Startup
-[PlannDesign.com](https://www.planndesign.com)
+[GyanByte.com](https://www.gyanbyte.com)
 
 ## My Hobby Project - Writing Journals
 [LifeInText.com](https://www.lifeintext.com)
 
 ## My Another Hobby Project - Dev Tools
 [AppsFactory.dev](https://www.appsfactory.dev/)
+
+## AI Based Estimation Tool
+[Estimiqly.com](https://www.estimiqly.com/)
 
 
 <!--
