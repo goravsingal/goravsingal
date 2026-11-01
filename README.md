@@ -1,9 +1,9 @@
 ### Hi there 👋
 I am a Software Architect and Full-stack Software Developer.
-Currently, I'm working full-time in Adobe Systems, India.
+Currently, I'm working as Freelance Developer and Architect.
 
-## My Other Github Repos
-[GyanBlog Repo](https://github.com/gyanblog)
+## My Portfolio
+[Gorav's Portfolio](https://www.gyanbyte.com/portfolio/)
 
 ## My Technical Blogs
 [GyanByte.com](https://www.gyanbyte.com)
@@ -11,11 +11,14 @@ Currently, I'm working full-time in Adobe Systems, India.
 ## My Hobby Project - Writing Journals
 [LifeInText.com](https://www.lifeintext.com)
 
-## My Another Hobby Project - Dev Tools
+## Dev Tools & Games - Dev Tools
 [AppsFactory.dev](https://www.appsfactory.dev/)
 
 ## AI Based Estimation Tool
 [Estimiqly.com](https://www.estimiqly.com/)
+
+## An Instagram Style Card based Study Portal
+[Instapadho.com](https://www.instapadho.com)
 
 
 <!--
